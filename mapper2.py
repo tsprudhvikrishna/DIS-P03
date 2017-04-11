@@ -11,7 +11,7 @@ for line in f:
 f.close()
 o.close()
 n = open("mapper2_output.txt","r")  # open file, read-only
-s = open("mapper2_sorted_sorted.txt", "w") # open file, write
+s = open("mapper2_sorted.txt", "w") # open file, write
 lines = n.readlines()
 lines.sort()
 print(lines)
