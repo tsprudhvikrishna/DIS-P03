@@ -16,12 +16,12 @@ for line in f:
         o.write("{0}\t{1}\n".format(actor_1_name, movie_title))
 f.close()
 o.close()
-"""n = open("o.txt","r")  # open file, read-only
-s = open("s.txt", "w") # open file, write
+n = open("mapper_output.txt","r")  # open file, read-only
+s = open("mapper_sorted.txt", "w") # open file, write
 lines = n.readlines()
 lines.sort()
 print(lines)
 for line in lines:
 	s.write(line)
 n.close()
-s.close()"""
+s.close()
