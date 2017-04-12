@@ -24,7 +24,7 @@ b.	Hames Cameron Avatar
 Anyone can pull our reposiotry from GitHub by using the link https://github.com/tsprudhvikrishna/DIS-P03 It is a public repository.
 
 
-Steps to work on our MapReduce problem:
+#Steps to work on our MapReduce problem:
 Step1:- Go to the link provided, it takes to my repository. It is a public repository so anyone can access it.
 Step2:- Click on clone or download button. Its a green color button located at right side
 Step3:- Copy the web URL(link) to clone our MapReduce problems and all code files to your local machine.
@@ -33,7 +33,7 @@ Step5:- Right click and you will get various options like view, sortBy, Open Git
 Step6:- Select and click on Git clone, a window will pop up. Paste the web URL copied (from Step3) on URL box and click OK.
 Step7:- Our MapReduce problem and all our code files are cloned or copied or downloaded into your local machine. Now run and see the output and play with our MapReduce problem.
 
-Steps to run MapReduce problem and check output:
+#Steps to run MapReduce problem and check output:
 Step1:- My Mapper code is in mapper.py file, mapper output in mapper_output.txt file and you get sorted mapper output from mapper_sorted.txt file.
 Step2:- My Reducer code is in reducer.py file and you can get reducer output from reducer_output file.
 Step3:- Select the file which you want to work on.
