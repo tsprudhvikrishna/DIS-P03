@@ -41,3 +41,5 @@ Anyone can pull our reposiotry from GitHub by using the link https://github.com/
 * Step5:- Save the file.
 * Step6:- After saving right click on foler and select Git bash here. A Git bash window will appear.
 * Step7:- Type command "python fileName" and press enter to run that file, you can see output.
+
+![Reducer 2 Graph](/Images/Reducer2_OutputGraph.png)
