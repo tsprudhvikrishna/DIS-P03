@@ -40,7 +40,7 @@ Anyone can pull our reposiotry from GitHub by using the link https://github.com/
 * Step4:- Right click on that file and select open with Notepad++ or Notepad, you can see data. If you want to make some changes you can do.
 * Step5:- Save the file.
 * Step6:- After saving right click on foler and select Git bash here. A Git bash window will appear.
-* Step7:- Type command "python fileName" and press enter to run that file, you can see output.
+* Step7:- Type command "python reducer.py" and press enter to run that file, you can see output.
 
 ![Reducer 1 Graph](/Images/reducer_OutputGraph.PNG)
 ![Reducer 2 Graph](/Images/Reducer2_OutputGraph.PNG)
